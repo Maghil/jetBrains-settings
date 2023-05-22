@@ -1,0 +1,3 @@
+PythonCore
+aws.toolkit
+idea.plugin.protoeditor
